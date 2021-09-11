@@ -1,0 +1,38 @@
+
+
+      <style>
+        body {}
+        h2 {
+          background: rgb(255,251,111);
+          background: linear-gradient(90deg, rgba(255,251,111,1) 0%, rgba(230,24,218,1) 50%, rgba(255,251,111,1) 100%);
+          color: pink;
+          text-align: center;
+          border:3px solid blue;
+          display: block;
+          margin: auto;
+          width: 55%;
+          padding: 5px;
+        }
+      img {
+       background-image: url("https://www.jeepforum.com/forum/showpic.php?do=showpic&u=898482&a=1585002");
+       height: 400px;
+       width: 55%;
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+
+       opacity: .86;
+
+      }
+      h3 {
+        background: rgb(230,24,218);
+        background: linear-gradient(90deg, rgba(230,24,218,1) 0%, rgba(255,251,111,1) 50%, rgba(230,24,218,1) 100%);
+        color: purple;
+        text-align: center;
+        border:3px solid blue;
+        display: block;
+        margin: auto;
+        width: 55%;
+        padding: 5px;
+      }
+      </style>
